@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm ischeez</h1>
-<h3 align="center">Backend Developer who keeps learning and building 🚀</h3>
+<h3 align="center">Backend Developer</h3>
 
 <p align="center">
   <img
