@@ -1,15 +1,24 @@
-<h1 align="center">Hello, I'm Ischeez</h1>
-<h3 align="center">Backend developer</h3>
+<h1 align="center">Hello, I'm ischeez</h1>
+<h3 align="center">Backend Developer who keeps learning and building 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile;Backend+Developer+Journey;Learning+JavaScript+%7C+TypeScript+%7C+Python+%7C+React" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=950&lines=Backend+Developer;Currently+learning+JavaScript%2C+TypeScript%2C+Python+and+React"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
 
-## 🧠  Right now I'm learning
+## 🧠 Currently learning
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react" alt="Learning skills" />
 </p>
-                                  
+
+---
+
+## 📬 Contact me
+
+- Discord: icheez
+- Telegram: @durov_international                  
