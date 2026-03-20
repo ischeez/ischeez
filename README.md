@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hello, I'm Ischeez</h1>
+<h3 align="center">Backend developer</h3>
 
-<!--
-**ischeez/ischeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile;Backend+Developer+Journey;Learning+JavaScript+%7C+TypeScript+%7C+Python+%7C+React" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠  Right now I'm learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react" />
+</p>
+                                  
