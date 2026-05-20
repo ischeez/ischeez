@@ -43,3 +43,21 @@ I work with TypeScript, JavaScript, NestJS, Docker, Prisma and modern web techno
 <p align="center">
   Discord: <code>icheez</code>
 </p>
+
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ischeez/ischeez/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ischeez/ischeez/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/ischeez/ischeez/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
