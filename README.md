@@ -1,11 +1,10 @@
 <h1 align="center">ischeez</h1>
 
 <p align="center">
-  <b>Backend-focused Fullstack Developer</b>
-</p>
-
-<p align="center">
-  TypeScript · JavaScript · NestJS · Docker · Prisma
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=8A8F98&center=true&vCenter=true&width=720&lines=Backend-focused+Fullstack+Developer;TypeScript+%7C+JavaScript;NestJS+%7C+Docker+%7C+Prisma;Building+clean+and+useful+web+applications"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
@@ -22,19 +21,8 @@ I work with TypeScript, JavaScript, NestJS, Docker, Prisma and modern web techno
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=ts,js,nodejs,nest,react,docker,prisma,postgres,git,github,vscode"
+    src="https://skillicons.dev/icons?i=ts,js,nodejs,nest,react,docker,prisma,postgres,git"
     alt="Tech Stack"
-  />
-</p>
-
----
-
-### Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/ischeez/ischeez/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub contribution snake"
   />
 </p>
 
@@ -53,4 +41,25 @@ I work with TypeScript, JavaScript, NestJS, Docker, Prisma and modern web techno
 
 <p align="center">
   Discord: <code>icheez</code>
+</p>
+
+---
+
+### Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ischeez/ischeez/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ischeez/ischeez/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/ischeez/ischeez/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
