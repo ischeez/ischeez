@@ -1,8 +1,5 @@
 <h1 align="center">ischeez</h1>
 
-<p align="center">
-  <b>Backend-focused Fullstack Developer</b>
-</p>
 
 <p align="center">
   <img
