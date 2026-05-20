@@ -13,8 +13,6 @@
 
 I am focused on backend development and gradually improving my fullstack skills.
 
-I work with TypeScript, JavaScript, NestJS, Docker, Prisma and modern web technologies.
-
 ---
 
 ### Tech Stack
