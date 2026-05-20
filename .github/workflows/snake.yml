@@ -3,7 +3,6 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */12 * * *"
-
   workflow_dispatch:
 
 jobs:
@@ -21,7 +20,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=#58A6FF&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v4

@@ -44,23 +44,12 @@ I work with TypeScript, JavaScript, NestJS, Docker, Prisma and modern web techno
 </p>
 
 ---
-
-### Contribution Snake
+---
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/ischeez/ischeez/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/ischeez/ischeez/output/github-snake.svg"
-    />
-    <img
-      width="100%"
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/ischeez/ischeez/output/github-snake.svg"
-    />
-  </picture>
+  <img
+    width="88%"
+    src="https://raw.githubusercontent.com/ischeez/ischeez/output/github-snake-dark.svg"
+    alt="GitHub contribution snake"
+  />
 </p>
