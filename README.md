@@ -15,35 +15,9 @@
 
 ### About
 
-I am focused on backend development and gradually improving my fullstack skills.  
+I am focused on backend development and gradually improving my fullstack skills.
+
 I work with TypeScript, JavaScript, NestJS, Docker, Prisma and modern web technologies.
-
-```ts
-const profile = {
-  name: "ischeez",
-  role: "Backend-focused Fullstack Developer",
-  focus: "Backend Development",
-  stack: [
-    "TypeScript",
-    "JavaScript",
-    "NestJS",
-    "Docker",
-    "Prisma",
-    "React"
-  ],
-};
-```
-
----
-
-### Currently Learning
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=ts,js,nest,docker,prisma,react,nodejs,postgres"
-    alt="Currently Learning"
-  />
-</p>
 
 ---
 
@@ -58,45 +32,6 @@ const profile = {
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ischeez&show_icons=true&theme=github_dark&hide_border=true&hide_title=true"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ischeez&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-### Contributions
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/ischeez/ischeez/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/ischeez/ischeez/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/ischeez/ischeez/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
-
----
-
 ### Contact
 
 <p align="center">
@@ -104,13 +39,6 @@ const profile = {
     <img
       src="https://img.shields.io/badge/Telegram-24292F?style=for-the-badge&logo=telegram&logoColor=white"
       alt="Telegram"
-    />
-  </a>
-
-  <a href="https://discord.com/users/ischeez" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Discord-24292F?style=for-the-badge&logo=discord&logoColor=white"
-      alt="Discord"
     />
   </a>
 </p>
